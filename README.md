@@ -7,6 +7,6 @@ Olá, seja bem-vindo ao meu primeiro projeto em quesito de teste automatizado!! 
 
 Este projeto, foi realizado durante meu período de estágio, utilizando as seguintes ferramentas:
 
-💻 **Android Studio**: Ferramenta utilizada para simular um celular virtual;
+💻 **Android Studio**: Ferramenta utilizada para simular um celular virtual; <br>
 💻 **Eclipse**: IDE utilizada para escrita dos códigos para serem automatizados;
 
