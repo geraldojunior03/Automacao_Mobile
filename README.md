@@ -10,3 +10,4 @@ Este projeto, foi realizado durante meu período de estágio, utilizando as segu
 💻 **Android Studio**: Ferramenta utilizada para simular um celular virtual; <br>
 💻 **Eclipse**: IDE utilizada para escrita dos códigos para serem automatizados;
 
+<br>
